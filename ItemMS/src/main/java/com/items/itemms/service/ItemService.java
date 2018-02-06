@@ -1,8 +1,8 @@
-package com.items.ipicker.service;
+package com.items.itemms.service;
 
 import java.util.List;
 
-import com.items.ipicker.model.*;
+import com.items.itemms.model.ItemData;
 
 public interface ItemService {
 

@@ -1,4 +1,4 @@
-package com.items.ipicker.service;
+package com.items.itemms.service;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,8 +6,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.items.ipicker.model.ItemData;
-import com.items.ipicker.service.ItemService;
+import com.items.itemms.model.ItemData;
 
 @Service
 public class ItemServiceImpl implements ItemService{

@@ -1,4 +1,4 @@
-package com.items.ipicker.util;
+package com.items.itemms.util;
 /*package com.items.item.util;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

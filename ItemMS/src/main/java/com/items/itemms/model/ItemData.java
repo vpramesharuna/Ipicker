@@ -1,4 +1,4 @@
-package com.items.ipicker.model;
+package com.items.itemms.model;
 
 public class ItemData {
 
@@ -17,6 +17,5 @@ public class ItemData {
 	public void setItemName(String itemName) {
 		this.itemName = itemName;
 	}
-	
 	
 }

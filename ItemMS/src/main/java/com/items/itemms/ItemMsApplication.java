@@ -1,12 +1,12 @@
-package com.items.ipicker;
+package com.items.itemms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IPickerApplication {
+public class ItemMsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IPickerApplication.class, args);
+		SpringApplication.run(ItemMsApplication.class, args);
 	}
 }

@@ -1,4 +1,4 @@
-package com.items.IPicker;
+package com.items.ItemMS;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class IPickerApplicationTests {
+public class ItemMsApplicationTests {
 
 	@Test
 	public void contextLoads() {

@@ -1,4 +1,4 @@
-package com.items.ipicker.controller;
+package com.items.itemms.controller;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.items.ipicker.model.ItemData;
-import com.items.ipicker.service.ItemService;
+import com.items.itemms.model.ItemData;
+import com.items.itemms.service.ItemService;
 
 /*import com.items.item.model.ItemData;
 import com.items.item.service.ItemService;
